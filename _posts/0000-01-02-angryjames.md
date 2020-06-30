@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide"
+title: "Welcome to Angryjames slide"
 ---
 Angryjames Slide
 Use Left Arrow to Go Back
